@@ -1,5 +1,10 @@
 # Breakable Flask
 
+## Documentation Docker et DevSecOps
+
+Pour comprendre la construction de l'image, les scans Trivy et le pipeline
+GitHub Actions, consulter le [guide Docker et DevSecOps](DEVSECOPS.md).
+
 
 A simple vulnerable Flask application.
 
